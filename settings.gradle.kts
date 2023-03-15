@@ -1,0 +1,1 @@
+rootProject.name = "ru.astondevs.aston-android-backend-meetup"
